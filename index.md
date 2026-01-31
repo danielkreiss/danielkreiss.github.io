@@ -16,6 +16,8 @@ I lead enterprise IT environments with a focus on secure architecture, operation
 ---
 
 ## Experience Highlights
+For a deeper view of my compliance and governance approach, see [Compliance & Governance](compliance.md).
+
 
 ### Enterprise Infrastructure Modernization  
 Directed large-scale modernization efforts across legacy environments, including network segmentation, firewall architecture, virtualization upgrades, and secure site-to-site connectivity. Delivered standardized, supportable platforms designed for long-term scalability and risk reduction.
@@ -34,7 +36,9 @@ Spearheaded enterprise recovery efforts following ransomware incidents, restorin
 ## Resume & Profiles
 
 - [Download Resume (PDF)](Daniel_Kreiss_Resume.pdf)
+- [Compliance & Governance](compliance.md)
 - [LinkedIn](https://www.linkedin.com/in/daniel-kreiss-63a022a5/)
+
 
 ---
 
