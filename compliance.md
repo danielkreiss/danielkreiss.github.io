@@ -1,8 +1,8 @@
 # Compliance, Security & Governance
 
-I own security and compliance as operational disciplines embedded into IT architecture and daily operations. My focus is on translating regulatory requirements into enforceable technical controls, sustainable processes, and clear accountability across infrastructure, identity, and access layers.
+I own security and compliance as operational disciplines embedded into IT architecture and daily operations. My focus is translating regulatory requirements into enforceable technical controls, sustainable processes, and clear accountability across infrastructure, identity, and access layers.
 
-This approach ensures compliance is durable, auditable, and aligned with business execution—not a reactive or one-time exercise.
+The outcome is compliance that is durable, auditable, and aligned to business execution—not a one-time exercise.
 
 ---
 
