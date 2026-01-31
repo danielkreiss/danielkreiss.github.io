@@ -1,17 +1,17 @@
 # Daniel Kreiss
 
-## IT Infrastructure, Systems Architecture & Security Leadership
+## IT Infrastructure & Operations Leadership | Systems Architecture, Security & Compliance
 
-I lead enterprise IT environments with a focus on secure architecture, operational resilience, and regulatory alignment. My experience spans multi-site infrastructure, identity and access architecture, and compliance-driven organizations where stability, security, and audit readiness are business-critical.
+I design, operate, and modernize enterprise IT infrastructure with direct ownership of operations, security, and compliance in regulated environments. My experience spans multi-site architecture, identity and access governance, and audit-driven control implementation aligned with NIST 800-171 and CMMC Level 2.
 
 ---
 
-## What I Do
+## What I Lead
 
-- Provide strategic leadership for enterprise infrastructure modernization and platform evolution
-- Architect and govern identity, authentication, and access control frameworks
-- Lead security and compliance initiatives aligned with NIST 800-171 and CMMC Level 2
-- Ensure operational continuity through resilient backup, recovery, and incident response planning
+- Enterprise infrastructure modernization and operational leadership
+- Identity, authentication, and access governance architecture
+- Security and compliance ownership (NIST 800-171, CMMC Level 2)
+- Business continuity, disaster recovery, and incident response leadership
 
 ---
 
